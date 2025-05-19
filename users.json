@@ -1,0 +1,165 @@
+{
+  "1033207979": {
+    "userId": 1033207979,
+    "username": "fred1ben",
+    "hasJoined": false,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "6452550944",
+    "hasReceivedReward": false,
+    "joinedAt": null
+  },
+  "1241657820": {
+    "userId": 1241657820,
+    "username": "cozzyXD",
+    "hasJoined": true,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "6994528708",
+    "hasReceivedReward": false,
+    "joinedAt": "2025-05-19T13:35:59.933Z"
+  },
+  "1890133465": {
+    "userId": 1890133465,
+    "username": "SK1Z0V41",
+    "hasJoined": true,
+    "points": 4,
+    "referrals": [
+      6638675608,
+      6868027091,
+      6862000588,
+      5837149302
+    ],
+    "referredBy": "6994528708",
+    "hasReceivedReward": true,
+    "joinedAt": "2025-05-19T13:36:09.608Z"
+  },
+  "6994528708": {
+    "userId": 6994528708,
+    "username": "Its_soloz",
+    "hasJoined": true,
+    "points": 4,
+    "referrals": [
+      1241657820,
+      5001584815,
+      6294200553,
+      1890133465
+    ],
+    "referredBy": null,
+    "hasReceivedReward": true,
+    "joinedAt": "2025-05-19T14:05:56.839Z"
+  },
+  "6871553282": {
+    "userId": 6871553282,
+    "username": "Demongaming8",
+    "hasJoined": false,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "6994528708",
+    "hasReceivedReward": false,
+    "joinedAt": null
+  },
+  "5001584815": {
+    "userId": 5001584815,
+    "username": "iam_yy",
+    "hasJoined": true,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "6994528708",
+    "hasReceivedReward": false,
+    "joinedAt": "2025-05-19T13:36:04.255Z"
+  },
+  "6294200553": {
+    "userId": 6294200553,
+    "username": "RAJABHAIYAOP",
+    "hasJoined": true,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "6994528708",
+    "hasReceivedReward": false,
+    "joinedAt": "2025-05-19T13:36:06.749Z"
+  },
+  "8023321385": {
+    "userId": 8023321385,
+    "username": "User 8023321385",
+    "hasJoined": true,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "6452550944",
+    "hasReceivedReward": false,
+    "joinedAt": "2025-05-19T13:39:04.387Z"
+  },
+  "6452550944": {
+    "userId": "6452550944",
+    "username": "",
+    "hasJoined": false,
+    "points": 2,
+    "referrals": [
+      8023321385,
+      8023321385
+    ],
+    "referredBy": null,
+    "hasReceivedReward": false,
+    "joinedAt": null
+  },
+  "7939989747": {
+    "userId": 7939989747,
+    "username": "Cypher101zen",
+    "hasJoined": false,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "6994528708",
+    "hasReceivedReward": false,
+    "joinedAt": null
+  },
+  "7906418953": {
+    "userId": 7906418953,
+    "username": "User 7906418953",
+    "hasJoined": false,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "6452550944",
+    "hasReceivedReward": false,
+    "joinedAt": null
+  },
+  "6638675608": {
+    "userId": 6638675608,
+    "username": "SP1D3R_6T9",
+    "hasJoined": true,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "1890133465",
+    "hasReceivedReward": false,
+    "joinedAt": "2025-05-19T13:36:31.791Z"
+  },
+  "6868027091": {
+    "userId": 6868027091,
+    "username": "Selimmia6",
+    "hasJoined": true,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "1890133465",
+    "hasReceivedReward": false,
+    "joinedAt": "2025-05-19T13:37:11.911Z"
+  },
+  "6862000588": {
+    "userId": 6862000588,
+    "username": "selimmia87",
+    "hasJoined": true,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "1890133465",
+    "hasReceivedReward": false,
+    "joinedAt": "2025-05-19T13:37:30.326Z"
+  },
+  "5837149302": {
+    "userId": 5837149302,
+    "username": "Luc1f3r_6T9",
+    "hasJoined": true,
+    "points": 0,
+    "referrals": [],
+    "referredBy": "1890133465",
+    "hasReceivedReward": false,
+    "joinedAt": "2025-05-19T14:01:29.497Z"
+  }
+}
