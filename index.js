@@ -3,10 +3,10 @@ const fs = require('fs');
 
 // Bot configuration
 const bot = new Telegraf('7988228041:AAGqEA2IEjAKJcyDc-RB_EBdrlll8mH_bBc');
-const CHANNEL_LINK = 'https://t.me/+mi-m1zqP-kNmMDg1';
+const CHANNEL_LINK = 'https://t.me/+Jj-2MqY4DbUzZGZl';
 const CHANNEL_ID = -1002697504696;
 const ADMIN_ID = 6994528708;
-const REWARD_CHANNEL_LINK = 'https://t.me/+Jj-2MqY4DbUzZGZl';
+const REWARD_CHANNEL_LINK = 'https://t.me/+g-xrzWHWZcUzODA1';
 const REQUIRED_REFERRALS = 4;
 
 // Ensure data files exist
